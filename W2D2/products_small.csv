@@ -1,0 +1,338 @@
+product_id,product_name,aisle_id,department_id
+4,Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce,38,1
+8,Cut Russet Potatoes Steam N' Mash,116,1
+12,Chocolate Fudge Layer Cake,119,1
+18,Pizza for One Suprema  Frozen Pizza,79,1
+30,"Three Cheese Ziti, Marinara with Meatballs",38,1
+36,Traditional Lasagna with Meat Sauce Savory Italian Recipes,38,1
+46,Raisin Cinnamon Bagels 5 count,58,1
+81,Blakes Chicken Parmesan Dinner,38,1
+100,Peanut Butter & Strawberry Jam Sandwich,38,1
+86,"Camilia, Single Liquid Doses",6,2
+506,Arrowroot Powder,6,2
+535,Rescue Remedy,6,2
+676,Sunset Blush,6,2
+713,Pink Moscato California,6,2
+1010,Agar Agar Powder,6,2
+1013,Poly-Vi-Sol® Infants And Toddlers Multivitamin Supplement Drops,6,2
+1655,Moderate Absorbency for Women  Underwear Large,6,2
+1682,Pink Moscato,6,2
+58,Whole Wheat Tortillas,128,3
+83,100% Whole Wheat Pita Bread,128,3
+101,"Bread, Healthy Whole Grain",112,3
+108,Organic Sprouted Barley Bread,112,3
+116,English Muffins,93,3
+131,Brioche Bachelor Loaf,93,3
+189,Healthfull Nuts & Seeds Bread,112,3
+218,"6\"" Organic Carrot Cake",8,3
+245,Poppy Seed Bagels,93,3
+317,Best Grains Honey & Crunch Oat Bread,112,3
+31,White Pearl Onions,123,4
+43,Organic Clementines,123,4
+45,European Cucumber,83,4
+66,European Style Spring Mix,123,4
+89,Yogurt Fruit Dip Sliced Apples,123,4
+99,Local Living Butter Lettuce,83,4
+120,Cauliflower Florettes,123,4
+142,Arugula Salad,123,4
+143,Organic Lemons,24,4
+148,Nectarines,24,4
+157,Living Organic Cilantro,16,4
+199,Herb Thyme Clamshell,16,4
+52,Mirabelle Brut Rose,134,5
+119,Chardonnay Paso Robles,62,5
+150,Brut Rosé,134,5
+234,Tennessee Whiskey,124,5
+249,"Pinot Grigio, California, 2010",62,5
+350,Mixed 12 Pack Lion's Share Ale,27,5
+379,Super Dry Beer,27,5
+430,Born Yesterday Pale Ale,27,5
+470,Lite Beer,27,5
+475,Organic Reposado Tequila,124,5
+479,Most Wanted Cabernet Sauvignon Red Wine,28,5
+47,Onion Flavor Organic Roasted Seaweed Snack,66,6
+70,Sweet Cooking Rice Seasoning,66,6
+95,Organic Rice Vinegar,66,6
+161,Hacho Miso Aged & Fermented Soybeans,66,6
+192,Israeli Style Gefilte Fish,33,6
+215,Sambal Oelek Ground Fresh Chili Paste,66,6
+330,Chilpotles in Adobo Sauce,30,6
+338,Yahrzeit Light Memorial Candle,33,6
+369,New Mexico Chili,30,6
+425,Sardines in Water Salt Added,33,6
+548,Hi-Chew Strawberry Fruit,66,6
+638,Won Ton Wrappers,66,6
+3,Robust Golden Unsweetened Oolong Tea,94,7
+7,Pure Coconut Water With Orange,98,7
+10,Sparkling Orange Juice & Prickly Pear Beverage,115,7
+11,Peach Mango Juice,31,7
+20,Pomegranate Cranberry & Aloe Vera Enrich Drink,98,7
+39,Daily Tangerine Citrus Flavored Beverage,64,7
+44,Sparkling Raspberry Seltzer,115,7
+53,Whole Leaf Pure Aloe With Lemon Juice,98,7
+69,Vanilla with Almond Milk Iced Coffee,26,7
+73,Jasmine Tea Unfiltered Ginger Ale,77,7
+82,All Natural 100% Apple Juice,98,7
+21,Small & Medium Dental Dog Treats,40,8
+26,Fancy Feast Trout Feast Flaked Wet Cat Food,41,8
+54,24/7 Performance Cat Litter,41,8
+92,Meat In The Middle Large Rawhide Chews,40,8
+236,Chicken Meatballs Dog Treats,40,8
+282,Oh My Cod! Cod Pate and Vegetables Cat Food,40,8
+293,Prime Filets Chicken & Tuna Dinner in Gravy Cat Food,41,8
+302,Gourmet Dog Treats Bone,40,8
+342,"Complete Health Deboned Chicken, Chicken Meal and Rice Cat Food",41,8
+377,Chunky Beef with Vegetables & Brown Rice Dog Food,40,8
+386,Real Chicken & Veggies Recipe Dog Food,40,8
+19,Gluten Free Quinoa Three Cheese & Mushroom Blend,63,9
+33,Organic Spaghetti Style Pasta,131,9
+60,Cheesy Creations Roasted Garlic Parmesan Sauce,9,9
+76,Spinach Basil Garlic Linguini,12,9
+126,Hot & Spicy Chicken Flavor Ramen Noodles,4,9
+139,"Zita Cut, No. 118",131,9
+165,Wild Chanterelle Mushroom Ravioli,12,9
+173,Habanero Lime Shrimp Flavor Ramen Noodle Soup,4,9
+179,Penne Rigate With Spinach,131,9
+2,All-Seasons Salt,104,13
+5,Green Chile Anytime Sauce,5,13
+6,Dry Nose Oil,11,11
+13,Saline Nasal Mist,11,11
+17,Rendered Duck Fat,35,12
+22,Fresh Breath Oral Rinse Mild Mint,20,11
+23,Organic Turkey Burgers,49,12
+24,Tri-Vi-Sol® Vitamins A-C-and D Supplement Drops for Infants,47,11
+27,Complete Spring Water Foaming Antibacterial Hand Wash,127,11
+35,Italian Herb Porcini Mushrooms Chicken Sausage,106,12
+503,Wild Rice Blend,68,10
+1000,Apricots,18,10
+5161,Dried Mango,18,10
+6194,Organic Red Kidney Beans,68,10
+6455,Organic Magic Muesli,68,10
+7314,Organic Quick Rolled Oats,68,10
+10224,Organic Hunza Golden Raisins,18,10
+10540,Whole Medjool Dates,18,10
+10915,Organic Short Brown Sprouted Rice,68,10
+75,"Hemp Protein, Organic",65,11
+84,Lamb Shank,7,12
+88,Probiotics High Potency Capsules,47,11
+91,Kind Prenatal Once Daily,47,11
+113,Infant's Blend Probiotic,70,11
+125,Herbal Armor DEET-Free Natural Insect Repellant,118,11
+133,Purifying Daily Detox Scrub,109,11
+146,Anti Diarrheal Caplets,70,11
+151,Aromatherapaes Stress Reducing Lavender & Chamomile Spa Bath,132,11
+152,"3 in 1 Soap for Every Man, Cucumber & Lemon",25,11
+159,"Calcium Adult Gummy Vitamins, Orange Cherry & Strawberry",47,11
+170,Single Herbs Ginkgo Leaf Dietary Supplement,47,11
+174,Vanishing Acne Treatment Cream,73,11
+175,T Bone Steak,122,12
+182,Acti-Fresh Body Shape Long Unscented To Go Panty Liners,126,11
+194,Lamb Rib Chops,122,12
+28,Wheat Chex Cereal,121,14
+34,Peanut Butter Cereal,121,14
+68,"Pancake Mix, Buttermilk",130,14
+90,Smorz Cereal,121,14
+211,Gluten Free Organic Cereal Coconut Maple Vanilla,130,14
+216,"Gluten Free Oatmeal, Variety Pack",130,14
+222,Honey Nut Oatmeal Squares,121,14
+238,Alpha-Bits Multigrain Cereal,121,14
+252,"Waffles, Red Berry",121,14
+288,Original Sprouted Grains Protein & Fiber Hot Oatmeal,130,14
+9,Light Strawberry Blueberry Yogurt,120,16
+29,Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn,81,15
+37,Noodle Soup Mix With Chicken Broth,69,15
+61,Ramen Noodles Soup Chicken Mushroom Flavor,69,15
+79,Wild Albacore Tuna No Salt Added,95,15
+98,2% Yellow American Cheese,2,16
+104,High Fiber Tomato Basil Soup,69,15
+114,Light Savory Beef Barley Vegetable Soup,69,15
+117,Petit Suisse Fruit,2,16
+121,Sharp Cheddar,21,16
+127,Marscapone,108,16
+129,Traditional Chicken & Orzo with Lemon Soup,69,15
+132,Yogurt Strawberry Pomegranate,120,16
+187,Wild Sardines in Marinara Sauce,95,15
+190,Classic Culinary Low Sodium Vegetable Broth,69,15
+195,Grade A Pasteurized 2% Milkfat Lowfat Cottage Cheese with Pineapple,108,16
+208,Vanilla Almond Cashew Almondmilk Cashewmilk Blend,91,16
+217,"String Cheese, Mozzarella",108,16
+226,Shaved Parmesan Cheese,21,16
+228,Organic Soups Lentil,69,15
+259,Imported Italian Solid Light Tuna In Pure Olive Oil,95,15
+264,Non-Fat Blueberry on the Bottom Greek Yogurt,120,16
+307,Precious Mozzarella Cheese,21,16
+329,Organic Whole Grassmilk Milk,84,16
+339,Creamline Yogurt Wild Blueberry,120,16
+1,Chocolate Sandwich Cookies,61,19
+14,Fresh Scent Dishwasher Cleaner,74,17
+15,Overnight Diapers Size 6,56,18
+16,Mint Chocolate Flavored Syrup,103,19
+25,Salted Caramel Lean Protein & Fiber Bar,3,19
+32,Nacho Cheese White Bean Chips,107,19
+38,Ultra Antibacterial Dish Liquid,100,21
+41,Organic Sourdough Einkorn Crackers Rosemary,78,19
+48,"School Glue, Washable, No Run",87,17
+49,Vegetarian Grain Meat Sausages Italian - 4 CT,14,20
+56,Healthy Pop Butter Popcorn,23,19
+57,Flat Toothpicks,111,17
+59,Medium Taqueria Style Chipotle Salsa,50,19
+62,Premium Deli Oven Roasted Turkey Breast,96,20
+63,Banana & Sweet Potato Organic Teething Wafers,92,18
+64,Autumn Vegetable & Turkey Dinner with Lil' Bits Purees Dinner,92,18
+71,Ultra 7 Inch Polypropylene Traditional Plates,111,17
+72,Organic Honeycrisp Apples,100,21
+74,Artisan Chick'n & Apple Sausage,14,20
+77,Coconut Chocolate Chip Energy Bar,3,19
+78,Nutter Butter Cookie Bites Go-Pak,61,19
+85,Soppressata Piccante,96,20
+93,Uncured Cracked Pepper Beef,23,19
+94,Organic Blueberry Blitz Fruit & Veggie Smoothie Mashups,92,18
+102,Danish Butter Cookies,61,19
+103,Sprouted Kale Cracker,78,19
+105,"Easy Grab 9\""x13\"" Oblong Glass Bakeware",10,17
+106,Organic Yummy Tummy Maple & Brown Sugar Instant Oatmeal,92,18
+109,Grape Leaf Hummus Wrap,13,20
+110,Uncured Turkey Bologna,100,21
+111,"Fabric Softener, Geranium Scent",75,17
+115,Scooby-Doo! Fruit Flavored Snacks,50,19
+124,Sun Cups Dark Chocolate,45,19
+134,Stain Release Boost In-Wash Stain Remover Pacs,75,17
+135,Dark Chocolate Ice Cream Topping,103,19
+136,Simple,45,19
+138,Olli Napoli Salami,96,20
+140,Chips Onion Chipotle Garlic,107,19
+141,Restaurant Style Organic Chia & Quinoa Tortilla Chips,107,19
+145,Traditional Water Crackers,78,19
+147,Organic Ranch Veggie Dip,67,20
+153,"Fabric Refresher Meadows & Rain Air Freshener (1 Count, 27 oz)  Air Care",75,17
+156,Extra Spearmint Sugar-Free Gum,46,19
+158,Smoked Ham & Oven Roasted Turkey Sub Sandwich Kit,96,20
+164,Peanut Butter Cacao Quinoa Clusters,3,19
+166,Garlic Parmesan Pita Bread Chips,107,19
+172,Gluten Free All Natural Chocolate Chip Cookies,61,19
+176,Original Turkey,96,20
+180,Simply Beyond Black Bean Tortilla Chips,107,19
+183,Cookie Dough Performance Energy,3,19
+184,Kisses Milk Chocolate Candy,45,19
+186,Fresh Scent Dishwasher Detergent with Dawn,74,17
+188,Mild El Nino Salsa,67,20
+198,Tzatziki Cucumber Sauce,67,20
+204,Free & Clear Natural Laundry Detergent For Sensitive Skin,75,17
+205,Chocolate Mint Cookie Crunch Nutrition Bar,3,19
+207,Minis Candy Bars,45,19
+209,Italian Pasta Salad,1,20
+212,Organic Blue Corn Sea Salt Tortilla Chips,107,19
+213,Tapatio Salsa Picante Hot Sauce Tortilla Chips,107,19
+219,Totz Toothbrush Extra Soft 18+ Months,82,18
+224,Foaming Hand Soap Kid Watermelon,114,17
+225,3 Seed Blue Corn Dipping Chips,107,19
+227,Triple Chocolate Snack Size,45,19
+239,Chicharrones Picante Flavor Pork Rinds,107,19
+242,Original Red Twists,45,19
+246,Triple-Acting Laundry Stain Remover,75,17
+247,Perfectly Thymed Pita Crisps Baked,107,19
+248,Dried Sweetened Cranberries,117,19
+256,Island Fruits Fruit Snacks,50,19
+265,Glass Storage Container with Green Silicone Protection,85,17
+268,Sponge Mop,114,17
+270,OneZip Storage Bags Quart Size Value Pack,85,17
+273,Thin Stackers Brown Rice  Salt Free,107,19
+274,Snack Bags,87,17
+275,Caramel Sauce,103,19
+285,Mini Nilla Wafers Munch Pack,61,19
+287,Turkey,96,20
+294,Minis Original Saltine Crackers,78,19
+297,"Write Bros Ball Point Pens, Cap-Pen, Medium (1.0 mm), Black Ink",100,21
+303,"Candy, Original",45,19
+304,Dry Roasted Pistachios,117,19
+309,Graduates Lil' Entrees Spiral Pasta In Turkey Meat Sauce With Green & Yellow Beans,92,18
+310,"Crackers, Puffed, Corn, Quinoa & Sesame",78,19
+318,Apple Cinnamon Crisp Candle,101,17
+324,Strong & Kind Roasted Jalapeno Almond Protein Bar,3,19
+328,Disinfectant Spray Cherry Blossom & Pomegranate Scent,101,17
+331,Organic Lemon Gingersnap,61,19
+332,Raspberry Fig Bars,3,19
+353,Tzatziki Greek Yogurt Dip,67,20
+354,Twist n Loc Small Round Containers + Lids,85,17
+355,Ground Flaxseed With Mixed Berries,117,19
+359,Deli Thin-Sliced Honey Ham,96,20
+363,Water Crackers Original All Natural,78,19
+368,Fabric Softener Dryer Sheet Free & Gentle 200CT Fabric Enhancers,75,17
+370,Chocolate Caramel Whey Protein Bar,3,19
+374,Sliced Kosher Salami,96,20
+378,Powerball Quantum Max Shine & Protect Automatic Dishwasher Detergent,74,17
+382,Sugar Free Mint Patties,45,19
+387,Chocolate Brownie Flavor Protein Bar,3,19
+398,Organic Hard Candy Blood Orange and Honey,45,19
+403,Ultra Thin Pastrami,96,20
+406,Vanilla Almond Protein Bar,3,19
+409,Original Bite Size Candies Natural & Artificial Flavors Fun Size,45,19
+415,16 oz Cold Cups,111,17
+416,Laundry Soil Stain Remover,75,17
+417,Classics Baby Binks Easter Chocolate Bunny,100,21
+422,Mix-Up Flamin' Hot & Cheezy Mix Flavored Snack Mix,107,19
+426,2nd Foods Bananas,92,18
+428,Everyday Mega Pack Paper Plates,111,17
+433,Organic Whole Granulation Roasted Buckwheat Groats,107,19
+434,Beach Sage Liquid Fabric Softener,75,17
+435,Dark Chocolate Raisins,50,19
+437,Strawberry Cheesecake Nonfat Yogurt,100,21
+439,Crispy Cinnamon Pear Chips,50,19
+440,Crossovers Olive Thyme Almond,100,21
+443,Ultra Power Plus Laundry Detergent 54 loads,75,17
+445,Almond Honey Protein+ Bar,3,19
+449,Chips Ahoy! Chewy Cookies,61,19
+453,Hummus Wrap,13,20
+465,100% Natural Just Peaches,50,19
+472,Fancy Diced Hot Chilies,100,21
+473,Plastic Measuring Cups,10,17
+487,"Can/Bottle Opener, Chrome",10,17
+490,Gin Gins Candy,45,19
+491,Pompelmo Water,100,21
+493,Pear and Blueberry Baby Breakfast,92,18
+496,Designer 9 Oz. Paper Cups,111,17
+500,Non-Scratch Scrub Sponges,114,17
+508,Freeze-Dried Edamame Veggie Snack,50,19
+509,Starting Solids Carrots Organic Baby Food,92,18
+512,Multigrain Pop Cakes,107,19
+514,Freezer Safe Pint Jars Wide Mouth,85,17
+521,Daily Shower Cleaner Ylang Ylang,114,17
+524,in Gravy with Carrots Peas & Corn Mashed Potatoes & Meatloaf Nuggets,92,18
+532,Unsalted Pretzel Round,107,19
+538,Take Alongs Twist & Seal Liquid Storage,85,17
+541,with Dawn Action Pacs Fresh Scent Dishwasher Detergent Pacs,74,17
+543,Rice & Bean Snack Chips With Adzuki Beans Chipotle Cheese,107,19
+544,Classic Original Hummus,67,20
+549,Cranberry Almond Fruit Clusters Dried Cranberries,125,19
+554,Turkey Chili,1,20
+555,Even The Kitchen Sink Kitchen & Bath Scrubber,114,17
+556,Bake & Break Cheese Garlic Loaf,100,21
+559,Cookie Chips Crunchy Dark Chocolate Chocolate Chip Cookies,61,19
+562,Traditional Tartar Sauce,100,21
+569,Golden Cupcakes 8 Pack,61,19
+573,Red Roses,87,17
+574,Crunch Vanilla Sugar Mini Cookies,61,19
+576,Vanilla Sugar Cookies,61,19
+578,"10\"" Bamboo Skewers",10,17
+579,Stain Odor Eliminator Detergent,75,17
+583,Vanilla Incense of Auroville,101,17
+585,Pretzel Thins Parmesan Herb Crackers,78,19
+587,Air Effects Gain Island Fresh,101,17
+590,Almonds Roasted and Salted,117,19
+594,Gluten Free Peanut Butter Berry  Chewy With A Crunch Granola Bars,3,19
+599,Floor Care Tile & Vinyl Floor Finish Clean Scent,114,17
+604,Cookie Sheets,10,17
+605,Natural Liquid Laundry Detergent - Blue Eucalyptus and Lavender,75,17
+611,Uncured Hard Salami,96,20
+614,Plain Dairy-Free Probiotic Drinkable Cashewgurt,100,21
+615,Supreme Pretzel Crackers,107,19
+616,Silken Tofu,14,20
+619,Spanish Peanuts,117,19
+622,Fudge Brownies with English Walnuts,61,19
+623,Fun Size Snacks,45,19
+624,Chub Chorizo,100,21
+627,Low Fat Honey Graham Crackers,61,19
+630,Snack Size Candy,45,19
+631,Original Puffcorn,107,19
+635,Little Bites Snickerdoodle Muffins,61,19
+650,Pop'n Hot! Vegan Broccoli Poppers,50,19
